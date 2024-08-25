@@ -1,0 +1,11 @@
+*.settings
+*.launches
+*.cmd
+
+*.ccsproject
+*.cproject
+*.project
+
+
+*Debug
+*targetConfigs
